@@ -20,8 +20,7 @@ Se till att Python är installerat på din dator. Detta program är utvecklat f�
 Klona projektet till din lokala dator och navigera till projektets katalog:
 
 ```bash
-git clone https://example.com/path/to/repo
-cd Matlagningsrecept-och-Ingredienshanterare
+git clone cd Matlagningsrecept-och-Ingredienshanterare
 Användning
 Starta programmet genom att köra följande kommando:
 
