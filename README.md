@@ -20,7 +20,7 @@ Se till att Python är installerat på din dator. Detta program är utvecklat f�
 Klona projektet till din lokala dator och navigera till projektets katalog:
 
 ```bash
-git clone cd Matlagningsrecept-och-Ingredienshanterare
+git clone https://github.com/Weyrax/Matlagningsrecept-och-Ingredienshanterare.git
 Användning
 Starta programmet genom att köra följande kommando:
 
